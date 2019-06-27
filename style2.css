@@ -1,9 +1,15 @@
 body{
     width: 255px;
     margin: auto;
+    background-image: url("https://www.onlygfx.com/wp-content/uploads/2018/09/5-comic-burst-background-cover.png");
+    background-repeat: repeat ;
+    background-position: auto;
+    background-attachment: scroll;
 }
+
 div{
     text-align: center;
+    margin: auto;
 }
 .input{
     width: 200px;
@@ -34,7 +40,7 @@ div{
     margin: auto;
     border: 1px solid gray;
     text-align: left;
-    background: #F9F9F9;
+    background: #80B3FF;
 
 }
 .input2{
